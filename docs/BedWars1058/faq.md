@@ -23,5 +23,14 @@ Read about this [here](setup/creating-arenas#map-resetting-system)
 ![img](https://i.imgur.com/IYzHdK6.jpg?1)
 This is a client-side issue and it happens on modified clients (usually on 1.8.x).
 
+## MyServer is 1.8.8 and plugin isnt loading for me. How to fix it?
+Plugin reqires java 11 or upper version you can either update the server or use a fork of spigot such as [WindSpigot](https://github.com/Wind-Development/WindSpigot/) for java 11 compatibility.
+
+## TAB plugin overriding my team colors, what do i do ?
+Click [here](https://github.com/NEZNAMY/TAB/wiki/Mini-guides-collection#bedwars1058-compatibility) for the guide of TAB compatibility for bedwars1058.
+
+## I want to remove lobby protection / scoreboard from bedwars lobby. Is it possible?
+Yes, Change your server type from MultiArena to SHARED in config.yml
+
 ### Discord
 Couldn't find an answer? Join my <a href= "https://discord.gg/XdJfN2X"><img src="https://discordapp.com/api/guilds/201345265821679617/widget.png"/></a>
